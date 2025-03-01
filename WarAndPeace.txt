@@ -3,3 +3,6 @@ Paragraph 1
 Paragraph 2
   Peace
 Paragraph 3
+  War
+Paragraph 4
+  Peace
